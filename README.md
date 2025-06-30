@@ -37,10 +37,8 @@ Utilizes a clean color scheme and hover effects to enhance visual appeal and int
 
 This portfolio serves as a platform for Meenakshi to present her work and connect with potential employers or collaborators.
 
-
-
-                                                   OUTPUT:
-                                                   
+      OUTPUT:
+                            
 ![Image](https://github.com/user-attachments/assets/30a975dc-593c-4c2e-b8c2-8bd280b701d9)
 
                                                    
