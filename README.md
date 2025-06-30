@@ -1,3 +1,20 @@
+    PERSONAL PORTFOLIO WEBPAGE
+
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: MEENAKSHI M
+
+INTERN ID:CT04DF2545
+
+DOMAIN: FRONTEND DEVELOPMENT
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+    TASK IMPLEMENTATION DETAILS:
+
 This code creates a personal portfolio website for Meenakshi, showcasing her skills and projects as a web developer. Key features include:
 
 ->Responsive Design:
@@ -19,3 +36,11 @@ Provides email, phone number, and links to LinkedIn and GitHub for networking an
 Utilizes a clean color scheme and hover effects to enhance visual appeal and interactivity.
 
 This portfolio serves as a platform for Meenakshi to present her work and connect with potential employers or collaborators.
+
+
+
+                                                   OUTPUT:
+                                                   
+![Image](https://github.com/user-attachments/assets/30a975dc-593c-4c2e-b8c2-8bd280b701d9)
+
+                                                   
